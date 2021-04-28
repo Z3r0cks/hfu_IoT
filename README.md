@@ -7,3 +7,5 @@ Spieler GUI: https://www.figma.com/proto/OP6040JL8D7NB1fCvU2svN/IoT-Spieler-v01?
 
 [Blueprint Master](GameMaster_v01_Steckplatine.png)
 [Blueprint Spieler](Spieler_v01_Steckplatine.png)
+
+[Rollengeschwindigkeit](Rollengeschwindigkeiten_sheet1.pdf)
